@@ -34,6 +34,12 @@ This tool is ideal for:
 *   **Clear Output Format:** The final `.txt` file includes comments indicating the original package and filename before each respective code segment.
 *   **Location Choices:** Save the resulting `.txt` file in the source directory, your Downloads folder, or choose a custom location.
 
+## Language 🌐
+
+Currently, the user interface is only available in **Spanish**.
+
+Future localization (e.g., to English or other languages) will be considered if there's significant interest and downloads from the non-Spanish speaking community. Feel free to open an issue in the repository if you'd like to see support for your language!
+
 ## Requirements (Built for JRE 17) ⚙️
 
 *   **Java Runtime Environment (JRE):** Version 17 or higher is required to run the application.
@@ -85,4 +91,4 @@ This tool is ideal for:
 *   **sevenzipjbinding:** External library for `.rar` file extraction (optional functionality).
 
 ## License 📄
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
