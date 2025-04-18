@@ -8,10 +8,14 @@ This tool is ideal for:
 *   Students who need to submit all source code for a project as a single document.
 *   Easily sharing multiple source files as one block of text.
 *   Reviewing code from different files within a single view.
+*   A quick and easy way to send ALL of your project's code and context to an AI
 
 **(Optional: Add a screenshot here)**
-<!-- ![Screenshot of JavaSourceToTxt](path/to/your/screenshot.png) -->
-<!-- Adding a visual is highly recommended! -->
+
+![image](https://github.com/user-attachments/assets/b63e7733-38f1-46b6-a517-2ec79ff9fa0b)
+
+![image](https://github.com/user-attachments/assets/7d40df85-2a6c-4f65-9e4f-31b5061c8339)
+
 
 ## Key Features ✨
 
