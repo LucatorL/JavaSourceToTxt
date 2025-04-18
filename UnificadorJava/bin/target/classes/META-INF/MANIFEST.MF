@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: sevenzipjbinding-16.02-2.01.jar sevenzipjbinding-all-platfor
+ ms-16.02-2.01.jar
+Main-Class: lucas.unificadorjava.UnificadorJava
+Created-By: Maven Integration for Eclipse
+
