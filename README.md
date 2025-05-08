@@ -1,5 +1,9 @@
 # JavaSourceToTxt ☕
 
+DESCARGAR ÚLTIMA VERSIÓN V3.0:
+https://github.com/LucatorL/JavaSourceToTxt/releases/download/V2/UnificadorJava-3.0.jar
+
+
 A desktop application built with Java Swing designed to **concatenate the text content** of multiple `.java` source files into **a single plain text (.txt) file**.
 
 **⚠️ Important Note:** This tool *does not* perform any semantic code merging, linking, or compilation. It simply copies the text from selected `.java` files sequentially into one `.txt` file, adding comments to mark the origin of each code block. It's a utility for presentation and submission, not for building runnable code artifacts.
