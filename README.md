@@ -1,6 +1,6 @@
 # JavaSourceToTxt ☕
 
-DESCARGAR ÚLTIMA VERSIÓN V4.0:
+LAST VERSION V4.0:
 https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar
 
 
