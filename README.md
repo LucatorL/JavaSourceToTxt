@@ -1,8 +1,13 @@
-Java Unifier - Web Edition
-
-[![Java Unifier Web](https://img.shields.io/badge/Java_Unifier_Web-%23D87093?style=for-the-badge&logo=Netlify&logoColor=white&labelColor=2F2F2F)](https://javasourcetotxtweb.netlify.app/)
-
-# JavaSourceToTxt ☕
+<p align="center">
+  <a href="https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Desktop%20V4.0-blue?style=for-the-badge&logo=java" alt="Download V4.0">
+  </a>
+  <br><br>
+  <a href="https://javasourcetotxtweb.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Try%20Online%20Version-green?style=for-the-badge&logo=google-chrome" alt="Web Version">
+  </a>
+</p>
+# JavaSourceToTxt APP ☕
 
 LAST VERSION V4.0:
 https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar
