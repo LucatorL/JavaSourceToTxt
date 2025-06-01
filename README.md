@@ -1,17 +1,33 @@
-<p align="center">
-  <a href="https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Desktop%20V4.0-blue?style=for-the-badge&logo=java" alt="Download V4.0">
-  </a>
-  <br><br>
-  <a href="https://javasourcetotxtweb.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Try%20Online%20Version-green?style=for-the-badge&logo=google-chrome" alt="Web Version">
-  </a>
-</p>
-# JavaSourceToTxt APP ☕
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🖥️ Desktop Application</h3>
+<a href="https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar">
+<img src="https://img.shields.io/badge/DOWNLOAD-V4.0-green?style=for-the-badge&logo=java&logoColor=white&labelColor=2E7D32&color=4CAF50" height="50"/>
+</a>
+<br>
+<small>Full version with all features</small>
+</td>
+<td align="center" width="50%">
+<h3>🌐 Web Version</h3>
+<a href="https://javasourcetotxtweb.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN-ONLINE-blue?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1565C0&color=2196F3" height="50"/>
+</a>
+<br>
+<a href="https://github.com/LucatorL/JavaSourceToTxt-WEB-">
+<img src="https://img.shields.io/badge/REPOSITORY-SOURCE-lightblue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D47A1&color=42A5F5" height="40"/>
+</a>
+<br>
+<small>Use it directly from your browser</small>
+</td>
+</tr>
+</table>
+</div>
 
-LAST VERSION V4.0:
-https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar
 
+
+# JavaSourceToTxt ☕
 
 A desktop application built with Java Swing designed to **concatenate the text content** of multiple `.java` source files into **a single plain text (.txt) file**.
 
